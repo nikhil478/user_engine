@@ -1,2 +1,0 @@
-Simulating 1000 users hitting http://localhost:8080/submit
-Simulation completed.
